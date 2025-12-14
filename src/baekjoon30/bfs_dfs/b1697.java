@@ -1,4 +1,4 @@
-package baekjoon30;
+package baekjoon30.bfs_dfs;
 
 
 import java.util.LinkedList;
